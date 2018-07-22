@@ -1,0 +1,5 @@
+C:\Users\Yahye\Documents\Visual Studio 2015\Projects\Вариант 02\Option02.Core\bin\Debug\Option02.Core.dll
+C:\Users\Yahye\Documents\Visual Studio 2015\Projects\Вариант 02\Option02.Core\bin\Debug\Option02.Core.pdb
+C:\Users\Yahye\Documents\Visual Studio 2015\Projects\Вариант 02\Option02.Core\obj\Debug\Option02.Core.csprojResolveAssemblyReference.cache
+C:\Users\Yahye\Documents\Visual Studio 2015\Projects\Вариант 02\Option02.Core\obj\Debug\Option02.Core.dll
+C:\Users\Yahye\Documents\Visual Studio 2015\Projects\Вариант 02\Option02.Core\obj\Debug\Option02.Core.pdb
